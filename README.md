@@ -1,5 +1,6 @@
 🎬 JioCinema Clone - Frontend
 🚀 Live Preview: JioCinema Clone
+link - https://jiocinemaclone-frontend-clone-97.vercel.app/
 
 📌 Overview
 This is a frontend-only clone of JioCinema, built using React.js and Tailwind CSS. The project replicates the UI/UX of the original platform, offering a seamless user experience for browsing and streaming movie content.
